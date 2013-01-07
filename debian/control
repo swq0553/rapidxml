@@ -1,0 +1,12 @@
+Source: rapidxml
+Priority: extra
+Maintainer: Seth Yates <syates@brandscreen.com>
+Build-Depends: debhelper (>= 7.0.0), cmake (>= 2.8)
+Standards-Version: 3.8.2
+Section: libs
+Homepage: http://rapidxml.sourceforge.net/
+
+Package: rapidxml-dev
+Section: libdevel
+Architecture: any
+Description: RapidXml is an attempt to create the fastest XML parser possible, while retaining useability, portability and reasonable W3C compatibility
